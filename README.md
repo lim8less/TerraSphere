@@ -130,9 +130,3 @@ Both frontend and backend require specific environment variables to be set up. R
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Data provided by Maharashtra State Government
-- Machine learning models trained on historical landslide data
-- Google Gemini AI for natural language processing capabilities 
