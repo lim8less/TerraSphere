@@ -10,6 +10,13 @@ A state-of-the-art full-stack application for predicting and analyzing landslide
 - **User Authentication**: Secure login and registration system
 - **Interactive Dashboard**: Visual representation of risk data and predictions
 
+## Screenshots
+![Screenshot_30-5-2025_121717_localhost1](https://github.com/user-attachments/assets/bc7e4974-20d9-46f0-ab86-26bc1ae10a03)
+![Screenshot_30-5-2025_121717_localhost2](https://github.com/user-attachments/assets/98f50ffa-3a2b-4657-8624-c53540d31bd6)
+![Screenshot_30-5-2025_121717_localhost3](https://github.com/user-attachments/assets/1e293e7f-39d6-43f6-b3b4-d503db0bbb1a)
+
+
+
 ## Tech Stack
 
 ### Backend
