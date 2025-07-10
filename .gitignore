@@ -8,6 +8,8 @@ ENV/
 .env
 .env.*
 !.env.example
+.conda
+
 
 # Node.js
 node_modules/
