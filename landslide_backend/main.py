@@ -37,7 +37,7 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable is not set")
 genai.configure(api_key=API_KEY)
-gemini_model = genai.GenerativeModel(model_name="gemini-1.5-flash")  # or gemini-1.0-pro
+gemini_model = genai.GenerativeModel(model_name="gemini-2.5-flash")  # or gemini-1.0-pro
 
 def map_risk_level(risk_score):
     if risk_score > 80:
