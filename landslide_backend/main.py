@@ -28,9 +28,9 @@ app.add_middleware(
 
 # Load models and encoders
 try:
-    rf_first_stage = joblib.load("landslide_backend\landslide_first_stage.pkl")
-    rf_second_stage = joblib.load("landslide_backend\landslide_second_stage.pkl")
-    label_encoders = joblib.load("landslide_backend\label_encoders.pkl")
+    rf_first_stage = joblib.load("landslide_first_stage.pkl")
+    rf_second_stage = joblib.load("landslide_second_stage.pkl")
+    label_encoders = joblib.load("label_encoders.pkl")
 except Exception as e:
     print(f"Error loading model: {e}")
     raise
